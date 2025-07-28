@@ -21,6 +21,11 @@ export const sidebarLinks = [
     label: 'Recordings',
   },
   {
+    imgURL: '/icons/attendance.svg', // ✅ Use your attendance icon path
+    route: '/attendance', // ✅ Make sure this route is implemented
+    label: 'View Attendance',
+  },
+  {
     imgURL: '/icons/add-personal.svg',
     route: '/personal-room',
     label: 'Personal Room',

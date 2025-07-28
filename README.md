@@ -443,3 +443,11 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
 <img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
 </a>
+
+
+
+
+## if it is showing next not recognised 
+'''bash
+npm install
+ npm install next react react-dom     '''
